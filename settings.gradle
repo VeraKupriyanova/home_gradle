@@ -1,0 +1,5 @@
+rootProject.name = 'teess'
+include 'api'
+include 'db'
+include 'service'
+
